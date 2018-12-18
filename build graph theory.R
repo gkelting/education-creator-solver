@@ -81,8 +81,7 @@ sorted.edges <- function(vertices, connections){
   # print("ORIGINAL CONNECTIONS")
   # print(original.connections)
   
-  #####JONNY BOY'S##########################################################
-  ### DO I UNDERSTAND THIS CODE? KIND OF ###################################
+  #####JON'S##########################################################
   
   ##  Vector of the vertices
   letter <- vertices
