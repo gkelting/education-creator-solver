@@ -683,8 +683,7 @@ build.apportionment <- function(n.places, method){
 ##  However, seed numbers can be input manually
 ##  Comment out sample(1:999, 1) and type in the desired seed number
 ##  It will look like this:   auto <- 123#sample(1:999, 1)
-auto <- 3969#sample(1:999, 1) #0
-#auto <- auto + 1
+auto <- sample(100:999, 1) 
 print(auto)
 
 ## Solves the apportionment problem using each method
